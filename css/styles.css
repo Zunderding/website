@@ -1,5 +1,5 @@
 body {
-    background-color: #FAEDC6;
+    background: radial-gradient(circle, rgba(250,237,198,1) 0%, rgba(250,187,81,1) 100%);
 }
 
 hr {
@@ -7,5 +7,13 @@ hr {
     height: 0px;
     border-width: 5px;
     width: 5%;
-    border-color: #3E8E7E;
+    border-color: #7CD1B8;
+}
+
+h1 {
+    color: #3E8E7E;
+}
+
+h3 {
+    color: #3E8E7E;
 }
